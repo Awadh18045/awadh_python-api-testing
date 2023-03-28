@@ -1,7 +1,7 @@
 name: build with github actions
 on:
  push:
-   branches: [ branchWithactions ]
+   branches: [ branchWithActions ]
 # schedule:
 #  - cron: '10,20,30,40,50,59 * * * *'
  workflow_dispatch:
